@@ -1,9 +1,9 @@
 {
   "name": "dxftojson",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "convert dxf file into json format",
   "main": "index.js",
-  "repository": "git@github.com:jkRaccoon/dxftojson.git",
+  "repository": "git@github.com:team-codecraft/dxftojson.git",
   "contributors": [
 	  { "name" : "jkRaccoon" , "email" : "comsamo84@gmail.com" },
 	  { "name" : "n0roo" , "email" : "n0roo@codecraft.co.kr" }
