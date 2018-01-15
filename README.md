@@ -1,4 +1,5 @@
-# dxftojson
+# dxftojson [![Build Status](https://travis-ci.org/team-codecraft/dxftojson.svg?branch=master)](https://travis-ci.org/team-codecraft/dxftojson) 
+
 convert dxf file into json format
 
 ## Getting started
