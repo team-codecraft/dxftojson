@@ -10,7 +10,7 @@ convert dxf file into json format
 
 install package 
 
-```
+```javascript
 const dxftojson = require('dxftojson');
 
 dxftojson('./sample/file2.dxf' , 'out.json')
