@@ -1,0 +1,10 @@
+out.json
+.DS_Store
+bower_components
+node_modules
+*.bak
+.project
+yarn.lock
+package-lock.json
+.gulp-cache
+.iml

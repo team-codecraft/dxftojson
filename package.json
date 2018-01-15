@@ -12,6 +12,6 @@
     "mocha": "^4.1.0"
   },
   "scripts": {
-    "test": "node_modules/.bin/mocha"
+    "test": "node_modules/.bin/mocha -w"
   }
 }
