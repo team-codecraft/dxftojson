@@ -5,11 +5,18 @@
   "main": "index.js",
   "repository": "git@github.com:team-codecraft/dxftojson.git",
   "contributors": [
-	  { "name" : "jkRaccoon" , "email" : "comsamo84@gmail.com" },
-	  { "name" : "n0roo" , "email" : "n0roo@codecraft.co.kr" }
+    {
+      "name": "jkRaccoon",
+      "email": "comsamo84@gmail.com"
+    },
+    {
+      "name": "n0roo",
+      "email": "n0roo@codecraft.co.kr"
+    }
   ],
   "license": "MIT",
   "dependencies": {
+    "bitwise": "^1.4.0",
     "bluebird": "^3.5.1",
     "chai": "^4.1.2",
     "mocha": "^4.1.0"
