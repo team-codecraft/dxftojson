@@ -1,6 +1,6 @@
 {
   "name": "dxftojson",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "convert dxf file into json format",
   "main": "index.js",
   "repository": "git@github.com:team-codecraft/dxftojson.git",
