@@ -9,3 +9,5 @@ package-lock.json
 .gulp-cache
 .iml
 sample
+yarn.lock
+yarn-error.log
